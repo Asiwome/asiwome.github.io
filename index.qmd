@@ -1,11 +1,51 @@
 ---
-title: "asiwome.github.io"
+title: "Asiwome Ameko"
+image: assets/asi.jpeg
+resources: assets/CV_Ameko_Asiwome_v03.docx.pdf
+toc: false
+about:
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - icon: twitter
+      href: https://twitter.com/asiAmeko
+    - icon: github
+      href: https://github.com/Asiwome
+    - icon: linkedin
+      aria-label: "LinkedIn"
+      href: https://www.linkedin.com/in/asiwome-ameko-69608075/
+    - icon: envelope
+      href: mailto:asiwome.ameko@tth.gov.gh
+    - text: CV
+      href: assets/CV_Ameko_Asiwome_v03.docx.pdf
 ---
 
-This is a Quarto website.
+::: {#hero-heading}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Hi there!
+Thanks for stopping by my little corner. My name is Asiwome Ameko, and I'm excited to meet you.
 
-```{r}
-1 + 1
-```
+**Health Data Analyst** at the [Trust Research Data labs](https://asiwome.netlify.app/), working on areas including health data analytics, clinical data management, health econometrics and spatial data science. 
+
+Also working as a **Health Information Officer** at the [Tamale teaching Hospital](http://www.tth.gov.gh/), where I doing a lot of health data management, analytics and reporting tasks, support clinical staffs and researchers from research study design to publication of results. 
+
+
+## Education 
+
+University of Cape Coast | Cape Coast, Ghana
+
+Msc Data Management and Analysis | In-progress
+
+University of Health and Allied Sciences | HO, Ghana
+
+Bachelor of Public Health (Health Information) | 2012 - 2017
+
+
+## Experience
+
+**Health Information Officer** (2021-Present) | [Tamale teaching Hospital](http://www.tth.gov.gh/)
+
+**Health Data Analyst** (Independent Consultant) (2019-Present) | [Trust Research Data labs](https://asiwome.netlify.app/)
+
+:::

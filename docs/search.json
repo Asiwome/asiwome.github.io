@@ -1,16 +1,37 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Asiwome Ameko",
+    "section": "",
+    "text": "Thanks for stopping by my little corner. My name is Asiwome Ameko, and I’m excited to meet you.\nHealth Data Analyst at the Trust Research Data labs, working on areas including health data analytics, clinical data management, health econometrics and spatial data science.\nAlso working as a Health Information Officer at the Tamale teaching Hospital, where I doing a lot of health data management, analytics and reporting tasks, support clinical staffs and researchers from research study design to publication of results.\n\n\n\nUniversity of Cape Coast | Cape Coast, Ghana\nMsc Data Management and Analysis | In-progress\nUniversity of Health and Allied Sciences | HO, Ghana\nBachelor of Public Health (Health Information) | 2012 - 2017\n\n\n\nHealth Information Officer (2021-Present) | Tamale teaching Hospital\nHealth Data Analyst (Independent Consultant) (2019-Present) | Trust Research Data labs"
+  },
+  {
+    "objectID": "index.html#hi-there",
+    "href": "index.html#hi-there",
+    "title": "Asiwome Ameko",
+    "section": "",
+    "text": "Thanks for stopping by my little corner. My name is Asiwome Ameko, and I’m excited to meet you.\nHealth Data Analyst at the Trust Research Data labs, working on areas including health data analytics, clinical data management, health econometrics and spatial data science.\nAlso working as a Health Information Officer at the Tamale teaching Hospital, where I doing a lot of health data management, analytics and reporting tasks, support clinical staffs and researchers from research study design to publication of results."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Asiwome Ameko",
+    "section": "",
+    "text": "University of Cape Coast | Cape Coast, Ghana\nMsc Data Management and Analysis | In-progress\nUniversity of Health and Allied Sciences | HO, Ghana\nBachelor of Public Health (Health Information) | 2012 - 2017"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Asiwome Ameko",
+    "section": "",
+    "text": "Health Information Officer (2021-Present) | Tamale teaching Hospital\nHealth Data Analyst (Independent Consultant) (2019-Present) | Trust Research Data labs"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "asiwome.github.io",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   }
 ]
