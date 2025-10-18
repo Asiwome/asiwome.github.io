@@ -1,0 +1,13 @@
+---
+title: "Analysis of Surgical Data"
+author: "Asiwome"
+date: "2025-10-17"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+This is a post with executable code.
+
+```{r}
+1 + 1
+```

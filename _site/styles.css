@@ -1,0 +1,101 @@
+/* css styles */
+
+/* Base body styling */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  background-color: #fdfcfb; /* warm off-white */
+  color: #2b2b2b;
+  line-height: 1.7;
+}
+
+/* Main content container */
+.container {
+  max-width: 900px;
+  margin: 60px auto;
+  background-color: #ffffff;
+  padding: 50px;
+  border-radius: 10px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: #1a1a1a;
+  font-weight: 600;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* Paragraphs */
+p {
+  font-size: 1.1rem;
+  margin-bottom: 20px;
+}
+
+/* Links */
+a {
+  color: #7a5c61;
+  font-weight: bold;
+  text-decoration: none;
+  border-bottom: 2px solid #7a5c61;
+  transition: color 0.3s, border-bottom-color 0.3s;
+}
+
+a:hover {
+  color: #5e454d;
+  border-bottom-color: #5e454d;
+}
+
+/* Buttons */
+button {
+  background-color: #7a5c61;
+  color: #fff;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 6px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #5e454d;
+}
+
+/* Form inputs */
+input, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background-color: #f9f8f7;
+  margin-bottom: 20px;
+  font-size: 1rem;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid #7a5c61;
+  padding-left: 20px;
+  background-color: #f5f4f3;
+  margin: 30px 0;
+  font-style: italic;
+}
+
+/* Code blocks */
+pre, code {
+  background-color: #f5f4f3;
+  padding: 10px;
+  border-radius: 6px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.95rem;
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  border-radius: 8px;
+  margin: 20px 0;
+}

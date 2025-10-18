@@ -1,0 +1,15 @@
+---
+title: "Asiwome Ameko"
+image: asi.jpeg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/asiwome-ameko-69608075/
+    - icon: github
+      text: Github
+      href: https://github.com/Asiwome/
+---
+
+Asiwome Ameko is a dedicated Public Health Officer and Medical Statistician based in Tamale, Ghana. With a passion for data-driven healthcare solutions, Asiwome specializes in health information systems, epidemiological research, and health data consulting. He is committed to improving healthcare outcomes through evidence-based strategies and innovative data use

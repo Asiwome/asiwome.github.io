@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "Asiwome Ameko"
+  navbar:
+    left: 
+      - text: "Home"
+        file: index.qmd
+      - text: "Portfolio"
+        file: portfolio.qmd
+      - text: "CV"
+        file: cv.qmd
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/asiwome-ameko-69608075/
+      - icon: github
+        href: https://github.com/Asiwome/
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+
